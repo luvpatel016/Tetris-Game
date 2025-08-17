@@ -16,11 +16,6 @@ Built for fun, learning, and practice.
 2. Open `index.html` in any modern browser
 3. Play using your keyboard!
 
-## 📸 Screenshot
-
-![Tetris Screenshot](./screenshot.png)  
-<sub>Add a screenshot image named `screenshot.png` to your project folder</sub>
-
 ## 🛠️ Tech Stack
 
 - HTML5
