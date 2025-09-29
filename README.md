@@ -13,13 +13,6 @@ https://luvpatel016.github.io/Tetris-Game/
 - Score tracking
 - Game over detection
 
-## 🚀 How to Run
-
-1. Clone or download this repository
-2. Open `index.html` in any modern browser
-3. Play using your keyboard!
-
-
 ## 🛠️ Tech Stack
 
 - HTML5
